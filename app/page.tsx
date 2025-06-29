@@ -6,7 +6,7 @@ import { Github, Linkedin } from "lucide-react"
 export default function LandingPage() {
   return (
     <main className="flex flex-col items-center justify-center min-h-screen p-8 bg-gradient-to-r from-blue-500 to-purple-600 text-white">
-      <h1 className="text-5xl font-bold mb-4">Welcome to Rodin AI Generator</h1>
+      <h1 className="text-5xl font-bold mb-4">Welcome to Hyper 3D Rodin AI Generator</h1>
       <p className="text-lg max-w-xl text-center mb-8">
         Generate stunning 3D models with the power of AI. Customize options and download your creations.
       </p>
