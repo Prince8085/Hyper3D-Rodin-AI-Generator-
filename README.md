@@ -60,7 +60,7 @@ The project features a sleek, responsive UI with 3D model viewing capabilities, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/rodin-ai-generator.git
+git clone https://github.com/Prince8085/rodin-ai-generator.git
 cd rodin-ai-generator
 ```
 
